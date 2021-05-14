@@ -1,0 +1,11 @@
+git command---------
+
+git init - for pushing for thr first time
+
+git add . - for adding all the files
+git status - for checking the status
+git commit -m "first commit" - for commiting the code
+
+git push -u origin branch_name- pushing the code to repository
+
+ git clone gitURL- for cloning the code from repository
